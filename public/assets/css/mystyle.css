@@ -1,0 +1,23 @@
+#card{
+    width: 50%;
+    margin-top: 60px;
+    margin-inline: inherit;
+}
+
+#icons{
+    font-size: 25px;
+}
+
+th {
+    font-weight: bold;
+    font-weight: 500;
+}
+
+select{
+    display: block;
+}
+
+#status{
+    display: inline;
+}
+
